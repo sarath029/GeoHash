@@ -5,7 +5,7 @@
 
 ## Step 3: Find the geohash values using geohash library
 
-### installing
+### Installing
   npm install ngeohash
  
 ### Basic Methods 
@@ -39,4 +39,16 @@
  
  This function receives a set of geohashes and returns a Shapely's Polygon or MultiPolygon.
 
-## Step 5: Use folium to construct the layer on map.
+## Step 5: Use folium library to construct the layer on map.
+  
+### Installation
+
+$ pip install folium
+
+or
+
+$ conda install -c conda-forge folium
+
+### Documentation
+
+https://python-visualization.github.io/folium/
