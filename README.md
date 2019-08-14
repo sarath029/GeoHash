@@ -38,6 +38,8 @@
   geohashes_to_polygon(geohashes):
  
  This function receives a set of geohashes and returns a Shapely's Polygon or MultiPolygon.
+ ### More Documentation
+ https://github.com/Bonsanto/polygon-geohasher
 
 ## Step 5: Use folium library to construct the layer on map.
   
